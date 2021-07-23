@@ -1,0 +1,145 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#top {
+    text-align: center;
+}
+
+#logo-name {
+    color: rgb(34, 39, 39);
+    background-color: #ccc;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 8px 20px;
+    margin-top: 16px;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+#logo {
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 16px;
+}
+
+#navigation a {
+    color: rgb(34, 39, 39);
+    background-color: #ccc;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px 20px;
+    margin-top: 16px;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+
+#navigation a:hover {
+    color: rgb(192, 230, 255);
+}
+
+#image img {
+    width: 100%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+#main {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+#Aboutme {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    color: gray;
+    padding: 16px;
+    font-size: 14px;
+}
+
+#Shop  {
+    color: gray;
+    padding: 8px;
+}
+
+#Shop :hover{
+    color:rgb(192, 230, 255)
+
+}
+body {
+    background-color: rgb(34, 39, 39);
+    color: rgb(255, 255, 255);
+}
+
+#Discord {
+    color: rgb(34, 39, 39);
+    background-color: #ccc;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px 20px;
+    margin-top: 32px;
+    margin-right: 3px;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+#email {
+    color: rgb(34, 39, 39);
+    background-color: #ccc;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px 20px;
+    margin-top: 32px;
+    margin-left: 3px;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+#instagram {
+    color: rgb(34, 39, 39);
+    background-color: #ccc;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px 20px;
+    margin-top: 32px;
+    margin-left: 3px;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+#platzhalter {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+#platzhalter1 {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+#platzhalter2 {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+#mbmcookie {position: fixed; bottom: 0; left: 0; right: 0; background: rgb(34, 39, 39); padding: 20px; font-size: 14px; font-family: verdana;}
+
+#mbmcookie a.button {cursor: pointer; color: rgb(34, 39, 39); background: #ccc; padding: 8px 20px; margin-left: 10px; border-radius: 5px; font-weight: bold; float: right;}
+
+#mbmcookie a.button:hover {background-color: #aaa;}
+
+#mbmcookie p.cookiemessage {display: block; padding: 0; margin: 0;}
+
